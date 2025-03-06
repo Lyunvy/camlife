@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="./readme/images/logo.png" alt="screenshot" width="100" />
 <h1>Camlife</h1>
